@@ -2,6 +2,9 @@
 
 A web-based AI image classification application built with Streamlit and TensorFlow. Upload images and get instant AI-powered predictions using the MobileNetV2 model pre-trained on ImageNet.
 
+<img width="940" height="900" alt="image" src="https://github.com/user-attachments/assets/84355a9b-b24d-4ce3-b60a-81af967d4586" />
+
+
 ## Features
 
 - **Upload images** in JPG or PNG format
